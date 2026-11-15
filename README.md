@@ -123,10 +123,21 @@ A summary of my recent work. Client names, account details, and internal data ar
 
 ## Projects
 
-My analytics projects will be published here as I complete them. Each project will include the business question, the data used, the method, the key insights, and the tools.
+### [Account Risk Tracker and Dashboard](https://github.com/amankumarjha09/account-risk-tracker-dashboard)
+
+An Excel tracker and dashboard for customer success teams. It shows MRR at risk, predicted churn, and weekly movement by CSM. Built with dummy data, based on a tracker I maintain at work.
+
+**Tools:** Excel (SUMIFS, COUNTIFS, INDEX/MATCH, data validation, charts) | **Focus:** KPI design, churn tracking, reporting
+
+### More projects planned
 
 | Area | Focus | Status |
 | :--- | :--- | :--- |
+| SQL Analytics | Querying and analysing business data | Coming soon |
+| Python Data Analysis | Data cleaning and analysis with Pandas | Coming soon |
+| Power BI Dashboards | Interactive dashboards for business metrics | Coming soon |
+
+--- | :--- | :--- |
 | SQL Analytics | Querying and analysing business data | Coming soon |
 | Python Data Analysis | Data cleaning and analysis with Pandas | Coming soon |
 | Excel Business Reporting | KPI reports and business summaries | Coming soon |
