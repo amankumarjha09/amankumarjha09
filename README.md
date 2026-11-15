@@ -10,7 +10,7 @@
 
 ## Hello, I'm Aman
 
-I am a **Business & Data Analyst** with **3.3 years of professional experience** across sales, customer support, operations, reporting, and analytics-related work. I work with data to understand business performance, find the reasons behind trends, and support better decisions.
+I am a **Business & Data Analyst** with **3.5 years of professional experience** across sales, customer support, operations, reporting, and analytics-related work. I work with data to understand business performance, find the reasons behind trends, and support better decisions.
 
 I enjoy solving problems such as:
 
