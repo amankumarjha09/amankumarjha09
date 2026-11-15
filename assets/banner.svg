@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-label="Aman Kumar Jha - Business and Data Analyst">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#05080F"/>
+      <stop offset="0.55" stop-color="#0B2545"/>
+      <stop offset="1" stop-color="#1F6FEB"/>
+    </linearGradient>
+    <linearGradient id="bar" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0" stop-color="#1F6FEB" stop-opacity="0.15"/>
+      <stop offset="1" stop-color="#58A6FF" stop-opacity="0.55"/>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="240" rx="12" fill="url(#bg)"/>
+  <g opacity="0.9">
+    <rect x="700" y="150" width="28" height="60" rx="3" fill="url(#bar)"/>
+    <rect x="740" y="120" width="28" height="90" rx="3" fill="url(#bar)"/>
+    <rect x="780" y="135" width="28" height="75" rx="3" fill="url(#bar)"/>
+    <rect x="820" y="90" width="28" height="120" rx="3" fill="url(#bar)"/>
+    <rect x="860" y="65" width="28" height="145" rx="3" fill="url(#bar)"/>
+    <rect x="900" y="40" width="28" height="170" rx="3" fill="url(#bar)"/>
+    <polyline points="714,140 754,108 794,122 834,76 874,52 914,28" fill="none" stroke="#9CC3FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="914" cy="28" r="5" fill="#9CC3FF"/>
+  </g>
+  <text x="60" y="108" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="54" font-weight="700" fill="#FFFFFF">Aman Kumar Jha</text>
+  <text x="62" y="148" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" font-weight="500" fill="#9CC3FF">Business &amp; Data Analyst</text>
+  <text x="62" y="186" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#C9D1D9" letter-spacing="1">SQL  ·  Python  ·  Excel  ·  Power BI</text>
+</svg>
