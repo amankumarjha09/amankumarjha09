@@ -10,7 +10,7 @@
 
 ## Hello, I'm Aman
 
-I am a **Business & Data Analyst** with **3.5 years of professional experience** across sales, customer support, operations, reporting, and analytics-related work. I work with data to understand business performance, find the reasons behind trends, and support better decisions.
+I am a **Business & Operations Analyst** with **3.5 years of professional experience** across sales, customer success, operations, and analytics. I build reports, automate manual work, and track risk so teams can act faster.
 
 I enjoy solving problems such as:
 
@@ -57,6 +57,29 @@ Chatbot QA, analysis, and internal tooling at an AI company.
 
 ---
 
+## Selected Work at LimeChat
+
+A summary of my recent work. Client names, account details, and internal data are not shown.
+
+**Operations and automation**
+
+- Automated daily and weekly reports for ticket activity, agent activity, WhatsApp flows, broadcasts, and voice AI calls. They reach stakeholders on schedule, with no manual data pulls.
+- Created reusable AI skills for repeat tasks: monthly audit metrics, analytics exports, reply-time alerts for the customer success inbox, and go-live update digests for CS teams.
+- Set up daily chatbot audit schedules with Slack alerts, so CSMs see problems early.
+
+**Customer success and retention**
+
+- Maintain a customer risk tracker with a dashboard.
+- Prepare weekly risk reports grouped by theme for leadership.
+- Prepare QBR and MBR reports from raw exports.
+
+**Chatbot quality and delivery**
+
+- Audit live chatbots by reading real conversations, then report findings, fixes, and test cases.
+- Moving rule-based Rasa chatbots to agentic bots on Bot Builder.
+
+---
+
 ## Technical Skills
 
 **Programming**
@@ -92,6 +115,9 @@ Chatbot QA, analysis, and internal tooling at an AI company.
 ![RCA](https://img.shields.io/badge/Root%20Cause%20Analysis-0B2545?style=for-the-badge)
 ![Process Optimization](https://img.shields.io/badge/Process%20Optimization-0B2545?style=for-the-badge)
 ![Stakeholder Management](https://img.shields.io/badge/Stakeholder%20Management-0B2545?style=for-the-badge)
+![Revenue Operations](https://img.shields.io/badge/Revenue%20Operations-0B2545?style=for-the-badge)
+![CS Operations](https://img.shields.io/badge/CS%20Operations-0B2545?style=for-the-badge)
+![Process Automation](https://img.shields.io/badge/Process%20Automation-0B2545?style=for-the-badge)
 
 ---
 
