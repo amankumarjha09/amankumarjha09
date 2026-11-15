@@ -103,4 +103,5 @@ My analytics projects will be published here as I complete them. Each project wi
 
 ## Connect With Me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aman%20Kumar%20Jha-0B2545?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/amankumarjhame/)
 [![GitHub](https://img.shields.io/badge/GitHub-amankumarjha09-0B2545?style=for-the-badge&logo=github&logoColor=58A6FF)](https://github.com/amankumarjha09)
