@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/amankumarjha09/amankumarjha09/main/assets/banner.svg?v=2" alt="Aman Kumar Jha - Business and Data Analyst" width="100%" />
+<img src="https://raw.githubusercontent.com/amankumarjha09/amankumarjha09/main/assets/banner.svg?v=2" alt="Aman Kumar Jha - Business, Operations and Data Analyst" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Business+Analytics+%7C+Data+Analytics+%7C+BI;SQL+%C2%B7+Python+%C2%B7+Excel+%C2%B7+Power+BI;Turning+raw+data+into+business+insights" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=640&lines=Business%2C+Operations+%26+Data+Analyst;SQL+%C2%B7+Python+%C2%B7+Excel+%C2%B7+Power+BI;Turning+raw+data+into+business+insights" alt="Typing animation" />
 
 </div>
 
