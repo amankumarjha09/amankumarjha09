@@ -42,7 +42,6 @@ My goal is to grow my career in **Business Analytics, Data Analytics, and Busine
 Chatbot QA, analysis, and internal tooling at an AI company.
 
 **Revenue & Sales Analyst | PagarBook**
-- Closed ₹25+ Lakhs in net revenue and achieved 110%+ of sales targets
 - Built dashboards to track revenue, conversion, onboarding, and product adoption
 
 **Team Lead | NoBroker**
