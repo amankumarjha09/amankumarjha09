@@ -36,6 +36,27 @@ My goal is to grow my career in **Business Analytics, Data Analytics, and Busine
 
 ---
 
+## Experience
+
+**Product Operational Specialist | LimeChat** (current)
+Chatbot QA, analysis, and internal tooling at an AI company.
+
+**Revenue & Sales Analyst | PagarBook**
+- Closed ₹25+ Lakhs in net revenue and achieved 110%+ of sales targets
+- Built dashboards to track revenue, conversion, onboarding, and product adoption
+
+**Team Lead | NoBroker**
+- Led a team of 6+ people
+- Built reporting systems that improved SLA tracking accuracy by 32%
+- Improved SOPs and reduced turnaround time by 17%
+- Automated follow-ups, saving about 20 hours a month
+
+**Education:** Aryabhatta Knowledge University, Patna
+
+**Open to:** Business Analyst, Data Analyst, Revenue Operations, Sales Operations, and Customer Success Operations roles in Bengaluru (on-site or hybrid).
+
+---
+
 ## Technical Skills
 
 **Programming**
@@ -52,6 +73,7 @@ My goal is to grow my career in **Business Analytics, Data Analytics, and Busine
 **Visualization**
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-0B2545?style=for-the-badge&logo=powerbi&logoColor=58A6FF)
+![Metabase](https://img.shields.io/badge/Metabase-0B2545?style=for-the-badge&logo=metabase&logoColor=58A6FF)
 
 **Business Analytics**
 
@@ -59,6 +81,11 @@ My goal is to grow my career in **Business Analytics, Data Analytics, and Busine
 ![Reporting](https://img.shields.io/badge/Reporting-0B2545?style=for-the-badge)
 ![Retention Analysis](https://img.shields.io/badge/Retention%20Analysis-0B2545?style=for-the-badge)
 ![Churn Analysis](https://img.shields.io/badge/Churn%20Analysis-0B2545?style=for-the-badge)
+
+**CRM Tools**
+
+![LeadSquared](https://img.shields.io/badge/LeadSquared-0B2545?style=for-the-badge)
+![SuperLeap](https://img.shields.io/badge/SuperLeap-0B2545?style=for-the-badge)
 
 **Other Skills**
 
