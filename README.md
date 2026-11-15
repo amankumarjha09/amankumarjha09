@@ -8,7 +8,7 @@
 
 <br/>
 
-## Hello, I'm Aman
+## Hello, I'm Aman Kumar Jha
 
 I am a **Business & Operations Analyst** with **3.5 years of professional experience** across sales, customer success, operations, and analytics. I build reports, automate manual work, and track risk so teams can act faster.
 
